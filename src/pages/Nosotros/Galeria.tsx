@@ -11,7 +11,7 @@ import img6 from "../../assets/images/imagen11.png";
 import img7 from "../../assets/images/imagen12.png";
 import img8 from "../../assets/images/imagen13.png";
 import img9 from "../../assets/images/imagen14.png";
-import img10 from "../../assets/images/mesa de trabajo 2.png";
+import img10 from "../../assets/images/mesa-trabajo-2.png";
 import img11 from "../../assets/images/imagen15.png";
 import img12 from "../../assets/images/imagen16.png";
 
