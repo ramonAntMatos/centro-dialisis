@@ -12,7 +12,7 @@ const Stats = ( ) => {
 <div className="stat-card">
   <div className="stat-icon-box">
     <img
-      src="/src/assets/images/persona.png"
+      src="/images/persona.png"
       alt="Pacientes"
     />
   </div>
@@ -26,7 +26,7 @@ const Stats = ( ) => {
 <div className="stat-card">
   <div className="stat-icon-box">
     <img
-      src="/src/assets/icons/rinones.png"
+      src="/images/rinones.png"
       alt="Procedimientos"
     />
   </div>
@@ -41,7 +41,7 @@ const Stats = ( ) => {
 <div className="stat-card">
   <div className="stat-icon-box">
     <img
-      src="/src/assets/icons/servicios.png"
+      src="/images/servicios.png"
       alt="Procedimientos"
     />
   </div>
