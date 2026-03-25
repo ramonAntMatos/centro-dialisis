@@ -32,7 +32,7 @@ const AboutSection  = () => {
               <div className="about-image">
 
                < img 
-               src="/src/assets/images/centro.png"
+               src="/images/centro.png"
                alt="Centro de Atención Renal"/>
 
 
