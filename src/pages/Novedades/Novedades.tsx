@@ -2,7 +2,7 @@ import React from "react";
 import "./Novedades.css";
 
 
-import edificioImg from  "../../assets/images/centro.png";
+import edificioImg from  "/images/centro.png";
 import img1 from  "../../assets/images/novedades1.png";
 import img2 from  "../../assets/images/novedades2.png";
 import img3 from  "../../assets/images/novedades3.png";
