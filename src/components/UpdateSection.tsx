@@ -20,7 +20,7 @@ const UpdateSection = () => {
                 <div className="updates-content">
 
                     <div className="updates-image">
-                        <img src="src/assets/images/equipo.png" alt="Equipo Medico"/>
+                        <img src="/images/equipo.png" alt="Equipo Medico"/>
                     </div>
 
                     <div className="updates-card">
