@@ -6,7 +6,7 @@ const Heros = () => {
         <section className="hero-wrapper">
 
             <div className="hero-image-box">
-                <img src="/src/assets/images/inicio2.png"
+                <img src="/images/inicio2.png" 
                 alt="Centro de Diálisis"/>
 
             </div>
