@@ -18,7 +18,7 @@ const Informacion = () => {
              {/* TARJETA 1 */}
              <div className="info-card">
                 <div className="info-icon blue">
-                    <img src="src/assets/icons/calendario.png" alt="horario"/>
+                    <img src="/images/calendario.png" alt="horario"/>
                 </div>
             
              <div className="info-content">
@@ -39,7 +39,7 @@ const Informacion = () => {
 
             <div className="info-card">
                 <div className="info-icon red">
-                    <img src="src/assets/icons/mensajes.png" alt="consultas"/>
+                    <img src="/images/mensajes.png" alt="consultas"/>
                 </div>
 
                 <div className="info-content">
@@ -62,7 +62,7 @@ const Informacion = () => {
 
               <div className="info-card">
                 <div className="info-icon blue">
-                    <img src="src/assets/icons/dialisis.png" alt="Hemodiálisis"/>
+                    <img src="/images/dialisis.png" alt="Hemodiálisis"/>
                 </div>
 
                 <div className="info-content">
