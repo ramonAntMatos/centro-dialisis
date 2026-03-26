@@ -130,14 +130,14 @@ const Informacion = () => {
   </div>
 
   <div className="ars-grid">
-    <img src="/src/assets/ars/humano.png" alt="Humano"/>
-    <img src="/src/assets/ars/senasa.png" alt="Senasa"/>
-    <img src="/src/assets/ars/cmd.png" alt="CMD"/>
-    <img src="/src/assets/ars/ARS-mapfre.svg" alt="Mapfre"/>
-    <img src="/src/assets/ars/metasalud.png" alt="MetaSalud"/>
-    <img src="/src/assets/ars/monumental.png" alt="Monumental"/>
-    <img src="/src/assets/ars/ARS-Semma-01.svg" alt="Ars Semma"/>
-    <img src="/src/assets/ars/asemap.png" alt="Asemap"/>
+    <img src="/images/humano.png" alt="Humano"/>
+    <img src="/images/Senasa.png" alt="Senasa"/>
+    <img src="/images/cmd.png" alt="CMD"/>
+    <img src="/images/ARS-mapfre.svg" alt="Mapfre"/>
+    <img src="/images/MetaSalud.png" alt="MetaSalud"/>
+    <img src="/images/monumental.png" alt="Monumental"/>
+    <img src="/images/ARS-Semma-01.svg" alt="Ars Semma"/>
+    <img src="/images/asemap.png" alt="Asemap"/>
   </div>
 
 </section>
