@@ -22,13 +22,13 @@ const ContactFooter = () => {
 
             <div className="contact-quick">
                 <div className="contact-btn blue" onClick={() => window.open("https://wa.me/18092400291", "_blank")}>
-                    <img src="/src/assets/icons/iconowhatsapp.png"/>
+                    <img src="/images/iconowhatsapp.png"/>
                     <p>1 (809) 240 0291</p>
                     
                 </div>
 
                 <div className="contact-btn red"  onClick={() => window.location.href = "mailto:atencionrenal@gmail.com"}>
-                    <img src="/src/assets/icons/icono correo.png"/>
+                    <img src="/images/icono correo.png"/>
                     <p>atencionrenal@gmail.com</p>
 
                   </div>
