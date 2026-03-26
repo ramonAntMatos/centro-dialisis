@@ -101,7 +101,7 @@ const Nosotros = () => {
 
               <div className="fundadores-image">
 
-                <img src="/src/assets/images/romag.png" alt="Fundadores"/>
+                <img src="/images/romag.png" alt="Fundadores"/>
 
               </div>
             </div>
