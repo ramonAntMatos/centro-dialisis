@@ -98,7 +98,7 @@ const Informacion = () => {
     <img src="/images/ARL SALUD SEGURA-01.svg" alt="ARL"/>
     <img src="/images/ars-reservas-01.svg" alt="Reservas"/>
     <img src="/images/ARS GMA-01.svg" alt="GMA"/>
-    <img src="/images/senasa.png" alt="Senasa"/>
+    <img src="/images/Senasa.png" alt="Senasa"/>
     <img src="/images/renacer.png" alt="Renacer"/>
     <img src="/images/asemap.png" alt="Asemap"/>
     <img src="/images/cmd.png" alt="CMD"/>
