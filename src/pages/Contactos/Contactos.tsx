@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import "./Contactos.css";
 
-import whatsappIcon from "../../assets/icons/iconowhatsapp.png";
+import whatsappIcon from "/images/iconowhatsapp.png";
 import telefonoIcon from "../../assets/icons/iconotelefono.png";
-import correoIcono from "../../assets/icons/icono correo.png"
+import correoIcono from "/images/icono correo.png"
 import ubicacionIcono from "../../assets/icons/icono ubicacion.png"
 import ContactFooter from "../../components/ContactFooter";
 
