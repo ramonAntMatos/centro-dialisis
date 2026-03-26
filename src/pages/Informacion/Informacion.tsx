@@ -93,22 +93,22 @@ const Informacion = () => {
 
     <div className="ars-grid">
 
-    <img src="/src/assets/ars/universal.svg" alt="Universal"/>
-    <img src="/src/assets/ars/ARS-mapfre.svg" alt="Mapfre"/>
-    <img src="/src/assets/ars/ARL SALUD SEGURA-01.svg" alt="ARL"/>
-    <img src="/src/assets/ars/ars-reservas-01.svg" alt="Reservas"/>
-    <img src="/src/assets/ars/ARS GMA-01.svg" alt="GMA"/>
-    <img src="/src/assets/ars/senasa.png" alt="Senasa"/>
-    <img src="/src/assets/ars/renacer.png" alt="Renacer"/>
-    <img src="/src/assets/ars/asemap.png" alt="Asemap"/>
-    <img src="/src/assets/ars/cmd.png" alt="CMD"/>
-    <img src="/src/assets/ars/APS.png" alt="APS"/>
-    <img src="/src/assets/ars/monumental.png" alt="Monumental"/>
-    <img src="/src/assets/ars/ARS-Semma-01.svg" alt="Ars Semma"/>
-    <img src="/src/assets/ars/futuro.png" alt="Futuro"/>
+    <img src="/images/universal.svg" alt="Universal"/>
+    <img src="/images/ARS-mapfre.svg" alt="Mapfre"/>
+    <img src="/images/ARL SALUD SEGURA-01.svg" alt="ARL"/>
+    <img src="/images/ars-reservas-01.svg" alt="Reservas"/>
+    <img src="/images/ARS GMA-01.svg" alt="GMA"/>
+    <img src="/images/senasa.png" alt="Senasa"/>
+    <img src="/images/renacer.png" alt="Renacer"/>
+    <img src="/images/asemap.png" alt="Asemap"/>
+    <img src="/images/cmd.png" alt="CMD"/>
+    <img src="/images/APS.png" alt="APS"/>
+    <img src="/images/monumental.png" alt="Monumental"/>
+    <img src="/images/ARS-Semma-01.svg" alt="Ars Semma"/>
+    <img src="/images/futuro.png" alt="Futuro"/>
     <img src="/src/assets/ars/logoARSprimera.svg" alt="Primera"/>
-    <img src="/src/assets/ars/humano.png" alt="Humano"/>
-    <img src="/src/assets/ars/MetaSalud.png" alt="MetaSalud"/>
+    <img src="/images/humano.png" alt="Humano"/>
+    <img src="/images/ars/MetaSalud.png" alt="MetaSalud"/>
 
 
 
